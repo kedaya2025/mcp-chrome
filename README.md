@@ -124,10 +124,9 @@ Then your final path would be: /Users/xxx/Library/pnpm/global/5/node_modules/mcp
 {
   "mcpServers": {
     "chrome-mcp-stdio": {
-      "command": "npx",
+      "command": "node",
       "args": [
-        "node",
-        "/Users/xxx/Library/pnpm/global/5/node_modules/mcp-chrome-bridge/dist/mcp/mcp-server-stdio.js"
+        "C:\\Users\\xxx\\AppData\\Local\\pnpm\\global\\5\\node_modules\\mcp-chrome-bridge\\dist\\mcp\\mcp-server-stdio.js"
       ]
     }
   }
