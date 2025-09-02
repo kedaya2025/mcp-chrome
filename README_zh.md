@@ -134,7 +134,7 @@ pnpm list -g mcp-chrome-bridge
 
 比如：在augment中的配置如下：
 
-<img width="494" alt="截屏2025-06-22 22 11 25" src="https://github.com/user-attachments/assets/07c0b090-622b-433d-be70-44e8cb8980a5" />
+<img width="660" height="427" alt="image" src="https://github.com/user-attachments/assets/33201714-7277-422d-bcfd-281dfe84cf7c" />
 
 ## 🛠️ 可用工具
 
