@@ -123,10 +123,9 @@ pnpm list -g mcp-chrome-bridge
 {
   "mcpServers": {
     "chrome-mcp-stdio": {
-      "command": "npx",
+      "command": "node",
       "args": [
-        "node",
-        "/Users/xxx/Library/pnpm/global/5/node_modules/mcp-chrome-bridge/dist/mcp/mcp-server-stdio.js"
+        "C:\\Users\\xxx\\AppData\\Local\\pnpm\\global\\5\\node_modules\\mcp-chrome-bridge\\dist\\mcp\\mcp-server-stdio.js"
       ]
     }
   }
